@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>P.BA05-Booking Appointment empty comment (Positive)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0b7f6589-c42f-41b7-a465-5ee44f8eb79c</testCaseGuid>
+</TestCaseEntity>

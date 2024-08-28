@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>P.BA03-Booking Appointment medicareid (Positive)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ae973fae-0b6e-4bc3-8305-cdd4b979dcbf</testCaseGuid>
+</TestCaseEntity>

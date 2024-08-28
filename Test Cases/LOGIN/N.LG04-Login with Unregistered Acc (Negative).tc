@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>N.LG04-Login with Unregistered Acc (Negative)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d71fe499-000a-4fa9-98e1-f3c0e8c3a895</testCaseGuid>
+</TestCaseEntity>

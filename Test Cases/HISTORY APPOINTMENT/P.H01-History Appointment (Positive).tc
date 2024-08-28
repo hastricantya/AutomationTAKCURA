@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>P.H01-History Appointment (Positive)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d0d6d630-09cc-4a9d-bb7f-241bce4a402b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>P.BA02-Booking Appointment uncheck readmission (Positive)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d146047e-2cca-4fb2-9353-bdcbb7e79867</testCaseGuid>
+</TestCaseEntity>

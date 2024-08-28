@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Call Test Case Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>22b0ca3e-e8a8-4fea-a073-0f6d5d1edbbe</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>P.LG02-SPY WEB Login (Positive)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f1e24327-badb-4fa2-ba0b-009959fb0f08</testCaseGuid>
+</TestCaseEntity>

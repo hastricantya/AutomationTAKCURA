@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>N.BA02-Booking empty fill the date (Negative)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a490b04c-86dd-4106-876e-f95b0165da55</testCaseGuid>
+</TestCaseEntity>

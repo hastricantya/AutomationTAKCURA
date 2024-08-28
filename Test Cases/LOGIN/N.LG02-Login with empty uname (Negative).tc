@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>N.LG02-Login with empty uname (Negative)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>08d899c4-679e-498b-8f43-756dafdba603</testCaseGuid>
+</TestCaseEntity>
